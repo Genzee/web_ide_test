@@ -1,0 +1,15 @@
+# Node.js 관련
+node_modules/
+dist/
+.vite/
+
+# Docker 관련
+*.log
+docker/*.log
+
+# OS 별
+.DS_Store
+Thumbs.db
+
+# 기타
+.env
